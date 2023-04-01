@@ -30,5 +30,6 @@ console.log(suma(18, 12));
 var finDelMundo = null;
 
 var nombre2;
+console.log("algo");
 
 
