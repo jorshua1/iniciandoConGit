@@ -35,4 +35,5 @@ function suma(num1, num2){
     return num1+num2
 }
 
-console.log(suma(10,8))
+console.log(suma(10, 8))
+var asdada = "ajkadajkda"
