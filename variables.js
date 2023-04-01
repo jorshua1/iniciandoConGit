@@ -33,3 +33,5 @@ function suma(numeroA,numeroB){
 }
 
 console.log(suma(18,12));
+
+console.log("algo");
